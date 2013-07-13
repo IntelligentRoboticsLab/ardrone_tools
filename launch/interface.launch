@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="ardrone_tools" type="main.py" name="ardrone_tools" required="true" output="screen" />
+</launch>
